@@ -1,10 +1,12 @@
-#Liga Powerline
+# Liga Powerline
 ===================
 
-|Font creator| Tyler Finck |
-|Source| https://github.com/sursly/leaguemono |
-|License| SIL OPEN FONT LICENSE Version 1.1 |
-|Patched by| Justin Fraumeni |
+|              |                                      |
+---------------|--------------------------------------|
+| Font creator | Tyler Finck                          |
+| Source       | https://github.com/sursly/leaguemono |
+| License      | SIL OPEN FONT LICENSE Version 1.1    |
+| Patched by   | Justin Fraumeni                      |
 
 Liga Powerline is a modified version of League Mono, patched to include the symbol set for use with [Powerline](https://github.com/powerline/powerline) and similar applications. Powerline symbols created by Kim Silkebækken. 
 
