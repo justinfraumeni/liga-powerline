@@ -1,5 +1,4 @@
 # Liga Powerline
-===================
 
 |              |                                      |
 ---------------|--------------------------------------|
@@ -10,10 +9,11 @@
 
 Liga Powerline is a modified version of League Mono, patched to include the symbol set for use with [Powerline](https://github.com/powerline/powerline) and similar applications. Powerline symbols created by Kim Silkebækken. 
 
-![League Mono](https://raw.githubusercontent.com/sursly/leaguemono/master/leaguemono-sample.png)
 
 ## League Mono
-=============
+
+![League Mono](https://raw.githubusercontent.com/sursly/leaguemono/master/leaguemono-sample.png)
+
 _by [Tyler Finck](http://www.tylerfinck.com)_
 
 **Five weights of monospace fun.** 
